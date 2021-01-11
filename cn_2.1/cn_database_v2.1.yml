@@ -1,0 +1,15 @@
+---
+batch_size: 27
+beta_1: 0.9
+beta_2: 0.999
+decay: 4.449032765658648e-05
+epochs: 3000
+epsilon: 1.0e-08
+hidden_layers:
+- - 149
+  - relu
+- - 38
+  - relu
+learning_rate: 0.05306853935184695
+output_activation: linear
+patience: 427
